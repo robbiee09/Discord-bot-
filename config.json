@@ -1,0 +1,12 @@
+{
+  "token": "PASTE_YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "openrouter_key": "",
+  "autorole": 1367539028777238609,
+  "say_command_role": null,
+  "logging": {
+    "message_logs": null,
+    "image_logs": null,
+    "mod_logs": null
+  }
+}
